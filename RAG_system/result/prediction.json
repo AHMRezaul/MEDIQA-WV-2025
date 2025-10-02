@@ -1,0 +1,2611 @@
+[
+  {
+    "encounter_id": "ENC0385",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0385_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "foot-sole"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serous",
+    "infection": "unclear",
+    "query_title_en": "There's a hole on the sole of my foot.",
+    "query_title_zh": "【求助】脚心上有个洞",
+    "query_content_en": "It was previously scratched open and healed, but it started hurting again, so I scratched it off, leaving a small hole. I'm really scared and it hurts a lot. Any suggestions on how to heal this? It's caused by the friction from walking.",
+    "query_content_zh": "是以前抠破的，又长起来了，但是扎的脚疼，就又抠下来了，就成了个小洞，好害怕啊，有什么方法能好起来，真的好疼。是走路磨的",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply a hydrocolloid dressing to protect the wound and reduce friction. Change the dressing daily or as needed. Elevate the foot to reduce swelling. Avoid walking barefoot or on the affected area. Consider using a donut-shaped cushion to reduce pressure on the wound.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0386",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0386_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "Asking for advice!",
+    "query_title_zh": "求助",
+    "query_content_en": "My finger got smashed in the door and now it looks like this. What should I do?",
+    "query_content_zh": "手指被门夹了成这样了怎么办",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Monitor for signs of infection, such as increased redness, swelling, or pus. If severe pain or swelling occurs, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0387",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0387_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "hand"
+    ],
+    "wound_type": "surgical",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "other",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "It's been two days since the stitches were removed, and I still can't make a tight fist.",
+    "query_title_zh": "缝完针拆线两天，手还是不敢握紧拳头",
+    "query_content_en": "Will the wound split open if I make a fist?",
+    "query_content_zh": "用力握拳伤口会裂开吗",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply gentle pressure with a bandage or gauze to support the wound while making a fist. If it opens, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0388",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0388_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "elbow"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "Is there a physician here?",
+    "query_title_zh": "有大夫在吗",
+    "query_content_en": "How many days will it take for this kind of wound to heal?",
+    "query_content_zh": "像这种伤口几天会好",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "No physician available. Please consult a doctor as soon as possible for proper evaluation and treatment.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0389",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0389_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "forearm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_III",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "Seeking help.",
+    "query_title_zh": "求助",
+    "query_content_en": "Cleaned it up, but how to treat it? It's suppurating",
+    "query_content_zh": "清理干净了，怎么治疗？化脓了",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Seek medical attention immediately for further evaluation and potential antibiotic treatment.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0390",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0390_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "toes"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "other",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "Slipped last night, toe got cracked and bled a lot. Does it need stitches?",
+    "query_title_zh": "昨晚滑倒，脚趾撞裂了 流了蛮多血，这状态需要缝针吗？",
+    "query_content_en": "How should this wound be treated? — From Nokia Windows Phone",
+    "query_content_zh": "伤口还需要怎么处理啊？ ——来自 诺基亚 Windows Phone",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be a laceration from a traumatic injury. It is recommended that you seek medical attention from a primary care physician or an urgent care center to assess if stitches are needed. In the meantime, apply pressure to the wound with a clean cloth or bandage to stop the bleeding, clean the wound with mild soap and water, and apply an antibiotic ointment to prevent infection.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0391",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0391_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "leg"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "unclear",
+    "query_title_en": "Wound",
+    "query_title_zh": "伤口",
+    "query_content_en": "Can someone take a look at my leg wound? I don't know how it happen. Perhaps it was bitten by something?",
+    "query_content_zh": "大家帮我看看腿上的伤痕，不知道怎么弄的～不会被咬的吧",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Monitor for signs of infection such as increased redness, swelling, or pus. If condition worsens, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0392",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0392_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "finger"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "sanguineous",
+    "infection": "unclear",
+    "query_title_en": "Please help, it's urgent!",
+    "query_title_zh": "求大神，急急！",
+    "query_content_en": "On the 27th, around 11 a.m., my finger was crushed by a machine, and there was a lot of blood. I went to the hospital for an X-ray and waited for the results. At around 2 p.m., I got a tetanus shot, and the doctor did surgery to stitch the wound, which bleed a lot. The wound is deep, and they did six stitches. At around 6 p.m., I started to have whole body cold sweat, difficulty breathing at the subway. My injured hand became numb and cramped. It lasted about 3 minutes before getting better. Could this be tetanus?",
+    "query_content_zh": "27号上午11点左右，手指被机器压破，流很多血，去医院拍片，等结果，下午2点左右打得破伤风，然后医生手术逢针流很多血，伤口深逢6针。下午6点左右在地铁全身出冷汗，呼吸困难，手术那只手麻痹，抽筋，3分钟左右好转，请问会是破伤风吗。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek immediate medical attention. Symptoms like whole body cold sweat, difficulty breathing, numbness, and cramping may indicate a serious condition, possibly related to the injury or tetanus shot. Consult a doctor to rule out tetanus or other complications.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0393",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0393_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "ankle"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "Need help.",
+    "query_title_zh": "求帮助",
+    "query_content_en": "Three days ago, I scraped my ankle on a stone while helping someone move things. It bled a bit and I ignored it. Should I get a tetanus shot? Any advice?",
+    "query_content_zh": "三天前 帮人搬东西 脚踝不小心蹭到石头 蹭破皮 流了点血 当时没有在意 后来想想是不是要打破伤风啊！？ 大神在吗？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Clean the wound with soap and water, apply antibiotic ointment and cover with a bandage. Consider getting a tetanus shot if you haven't had one in the past 10 years.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0394",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0394_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "forearm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "unstageable",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "For those who understand please take a look, is this pus discharge caused by the dressing",
+    "query_title_zh": "请懂的人帮忙看下，这是不是敷料的作用导致的流脓",
+    "query_content_en": "My mother scraped off the skin when she fell. It did not recovere after 10ish day painting the wound with betadine. I took her to the hospital. The doctor said they would need to remove the scar. The facility doctor from our reigion said they are unable to treat the wound, and direct us the the faclity at this WeChat.",
+    "query_content_zh": "我妈本来是摔破皮，擦碘伏擦了十几天还没好，我就带她去医院看，医生说要挖掉结痂皮，我们这里小地方的医院的医生说没办法处理，就叫我们去微信里这个",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be infected. The purulent discharge and necrotic tissue suggest that the wound requires immediate medical attention. The dressing may have contributed to the infection, but it is not the primary cause. The doctor's recommendation to remove the scar tissue is likely necessary to promote healing.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0395",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0395_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "foot"
+    ],
+    "wound_type": "surgical",
+    "wound_thickness": "stage_II",
+    "tissue_color": "pink_white",
+    "drainage_amount": "scant",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "Can I walk in this condition?",
+    "query_title_zh": "这个刚能走路吗",
+    "query_content_en": "Stitches removed two days ago, had three stitches. Can I walk now in this condition?",
+    "query_content_zh": "刚拆线两天，缝了三针，现在这个情况能走路了吗？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "You can walk, but gently and avoid excessive pressure on the wound. Keep the wound clean and dry, and monitor for signs of infection.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0396",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0396_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "toenail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_III",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "I got six shots of anti-biotics on my butt since I was fallen from the scooter, and I have to take medicine everyday.",
+    "query_title_zh": "骑车摔伤打了6次屁股消炎针。天天吃消炎药。",
+    "query_content_en": "What should I do? It has been forteen days but no heal.",
+    "query_content_zh": "14天了还是这样子。该怎么办。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Continue taking antibiotics as prescribed. Monitor for increased redness, swelling, or discharge. Follow up with your doctor if no improvement is seen.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0397",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0397_0001.jpg",
+      "IMG_ENC0397_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "fingertip"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "It has been ten days since my finger tips was cut",
+    "query_title_zh": "指头切伤10天了",
+    "query_content_en": "What should I do if I feel pus inside",
+    "query_content_zh": "感觉里边有脓水怎么办",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. See a doctor if symptoms worsen.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0398",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0398_0001.jpg",
+      "IMG_ENC0398_0002.jpg",
+      "IMG_ENC0398_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_III",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "Need help",
+    "query_title_zh": "求解阿，",
+    "query_content_en": "I applied erythromycin ointment. How long will this kind of wound take to heal? It's been three days since I fell.",
+    "query_content_zh": "我抹的红霉素软膏，像这样的创伤多久能好阿，摔完过了三天了。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Change dressing and apply antibiotic ointment 3 times a day. Keep an eye on signs of infection. If it worsens or doesn't improve in a few days, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0399",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0399_0001.jpg",
+      "IMG_ENC0399_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "toenail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "Asking for advice",
+    "query_title_zh": "求解答",
+    "query_content_en": "What's happening? What treatment options are there? I moved house a couple of days ago and have been walking a lot. The swelling has gotten worse, and now it’s extremely painful.",
+    "query_content_zh": "这个是啥毛病，想问问有啥治疗方法，我前两天搬家，跑路比较多，就越来越肿了，现在简直太疼了",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply a warm compress to the affected area 2-3 times a day for 15-20 minutes to help bring the infection to a head and promote drainage.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0400",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0400_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "forehead"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "Can someone take a look to see if this require treatment?",
+    "query_title_zh": "各位大神看看这个需要处理不",
+    "query_content_en": "I got crash onto an advertisement board that has a metal lining. Do I need suture or special treatment? How likely will it leave a scar",
+    "query_content_zh": "被一个铁边的广告牌撞的，需要缝针或者特别处理吗，以后留疤的几率大不大",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek medical attention for evaluation. The wound may require sutures or further treatment to prevent infection and promote healing. A scar is possible, especially if the wound is deep or large.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0401",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0401_0001.jpg",
+      "IMG_ENC0401_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "surgical",
+    "wound_thickness": "unstageable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "There is pus formation inside this wound. I don't want to go to the hospital, how should I treat it?",
+    "query_content_zh": "这个有伤口里边化脓了，我不想医院，怎么么处理",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "I strongly advise against self-treating a potentially infected wound. The presence of pus and swelling indicates a possible infection, which requires medical attention. Please seek hospital care immediately to prevent further complications.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0402",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0402_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingers"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "scant",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "The skin on my hand got scraped, and now the wound looks like this. What should I do?",
+    "query_content_zh": "手上擦破皮后伤口变这样了，怎么办？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply an antibiotic ointment and cover with a bandage. Keep the area clean and dry.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0403",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0403_0001.jpg",
+      "IMG_ENC0403_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "knee",
+      "elbow"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "sanguineous",
+    "infection": "infected",
+    "query_title_en": "It is my first time posting here. Can anyone please take a look?",
+    "query_title_zh": "第一次在这里发帖 都进来看看嘛",
+    "query_content_en": "I fell from riding a vehicle. For this type of injury, do I need to go to the hospital for bandaging? Truthly speaking, it hurts so bad that I cannot sleep",
+    "query_content_zh": "骑车摔倒了 像这样的需要去医院包扎吗？说实话真的好痛 痛的都睡不着",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. If you experience fever, chills, or increased pain, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0404",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0404_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingers"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "unclear",
+    "query_title_en": "What's wrong with my wound?",
+    "query_title_zh": "我这怎么了",
+    "query_content_en": "Why hasn't it scabbed after several days?",
+    "query_content_zh": "怎么好几天都不结痂",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Change the bandage daily. If you notice increased redness, swelling, or pus, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0405",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0405_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "hand"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "Is this okay? It feels like my skin hasn’t healed properly.",
+    "query_title_zh": "这样没事么，总感觉皮肤没有愈合好",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be healing, but it's essential to monitor for signs of infection, such as increased redness, swelling, or pus. Keep the area clean and dry, and consider applying a topical antibiotic ointment to promote healing.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0406",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0406_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "help, can my nail still grow?",
+    "query_title_zh": "求助这个还能长指甲吗？",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Nail growth is possible if the nail bed is intact.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0407",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0407_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "forehead"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "I bumped myself on the table corner, and almost lacerated the skin",
+    "query_title_zh": "磕到桌子棱角了，差一点破了",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Monitor for signs of infection, such as increased redness, swelling, or pus.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0408",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0408_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "wrist"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "other",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "I fell and braced myself with my hand, and now there's a bump. Can someone tell me what this is?",
+    "query_title_zh": "摔倒手撑地的时候手上挤出来个包 各位帮忙看看是怎么回事",
+    "query_content_en": "It's the area marked in the red circle.",
+    "query_content_zh": "就是红圈的位置。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The bump is likely a hematoma or bruise from the fall. Apply ice to reduce swelling and monitor for increased pain or infection.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0409",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0409_0001.jpg",
+      "IMG_ENC0409_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "lowerleg"
+    ],
+    "wound_type": "atypical",
+    "wound_thickness": "unstageable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "Can someone help me see if this is almost healed?",
+    "query_title_zh": "谁能帮我看一下，不知道是快好了",
+    "query_content_en": "Can someone help me see if this is almost healed or getting worse?",
+    "query_content_zh": "谁能帮我看一下，不知道是快好了还是严重了！",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "No, it appears to be infected. The wound has purulent drainage and erythema, indicating an infection. Consult a healthcare professional for further evaluation and treatment.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0410",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0410_0001.jpg",
+      "IMG_ENC0410_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "ankle"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "How does this injury look, everyone please take a look",
+    "query_title_zh": "这个伤情怎么样，大家看看",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Continue wound care with washing the area with soap and water, applying antibiotic ointment and cover with a bandage. Consult a doctor if you develop fever, chills, nausea, vomiting, warmth, redness, bleeding or pus-like drainage.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0411",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0411_0001.jpg",
+      "IMG_ENC0411_0002.jpg",
+      "IMG_ENC0411_0003.jpg",
+      "IMG_ENC0411_0004.jpg"
+    ],
+    "anatomic_locations": [
+      "leg"
+    ],
+    "wound_type": "surgical",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "It’s been ten days since I got stitches on my leg. Does this kind of stitch need to be removed? I didn’t ask the doctor after the surgery nor the doctor mentioned it. And I can’t reach the doctor over the phone now.",
+    "query_content_zh": "吧里大神，腿伤缝合十天了，这种线用不用拆线啊！做完手术我也没问医生也没提...现在打医生电话也打不通",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The stitches typically need to be removed 7-14 days after surgery. If you can't reach the doctor, go to the hospital for follow-up.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0412",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0412_0001.jpg",
+      "IMG_ENC0412_0002.jpg",
+      "IMG_ENC0412_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "Got hit by a workpiece while working two days ago. Any doctors here? How should I handle it? Got some painkillers and circulation medicine from the hospital.",
+    "query_content_zh": "前天干活被工件砸伤了，有大夫吗，看看怎么处理，去医院开了一点止痛药，活血化淤的药",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Monitor for signs of infection such as increased redness, swelling, or pus. Take painkillers and circulation medicine as directed.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0413",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0413_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "pink_white",
+    "drainage_amount": "no_exudate",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "Seeking help!",
+    "query_title_zh": "求助",
+    "query_content_en": "After being pinched by a crayfish, a piece of my fingernail is missing.",
+    "query_content_zh": "被小龙虾夹过之后 指甲怎么少了一块",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Keep the area clean and dry.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0414",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0414_0001.jpg",
+      "IMG_ENC0414_0002.jpg",
+      "IMG_ENC0414_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "unstageable",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "A few days ago, I had a motorcycle accident, and the doctor said that a skin graft would cost more than RMB 20,000. Friends, do you think I need a skin graft? [picture]",
+    "query_title_zh": "摩托车摔伤了，医生说植皮要2万多，病友来看看需要植皮吗【图片",
+    "query_content_en": "A few days ago, I had a motorcycle accident, and the doctor said that a skin graft would cost more than RMB 20,000. Friends, do you think I need a skin graft? [picture]",
+    "query_content_zh": "摩托车摔伤了，医生说植皮要2万多，病友来看看需要植皮吗【图片】【图片】",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Seek immediate medical attention for potential infection and further evaluation.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0415",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0415_0001.jpg",
+      "IMG_ENC0415_0002.jpg",
+      "IMG_ENC0415_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "leg"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "red_moist",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "I got a scrape wound from a shattered glass bottle. I went to the hospital and the doctor cleansed the wound. According to the doctor, both suture and no suture were an option, so I choose not to have the wound sutured. Can I ask everyone, how long does would like this will recover.",
+    "query_content_zh": "玻璃瓶碎了被划伤，去医院医生清理了一下伤口，说缝不缝都行，然后我就没缝，想问下大家，这样的伤口多长时间能好。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Recovery time varies depending on individual factors, but generally, a scrape wound like this can take 1-3 weeks to heal. Keep the wound clean and dry, and monitor for signs of infection.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0416",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0416_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "back"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "Got a scrape on my back, now it looks like this.",
+    "query_title_zh": "背上被蹭了一下，然后成这样了。",
+    "query_content_en": "What medication can help it heal quickly?",
+    "query_content_zh": "用什么药好的快？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply topical antibiotic ointment and cover with a bandage. Keep the area clean and dry.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0417",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0417_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "shin"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_III",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "Does the wound on the front of the shin heal especially slowly? I fell and hurt my right shin on July 21.",
+    "query_title_zh": "小腿胫前伤口是不是好起来特别慢啊？7月21日摔跤割裂了右小腿",
+    "query_content_en": "Does the wound on the front of the shin heal especially slowly? I fell and cut my right shin on July 21. Got stitches removed 14 days after surgery, rested at home, then noticed necrosis, went back for debridement and VSD for a week. After a month of natural healing, there’s still a 0.5x0.5 cm granulation tissue. Now using hydrocolloid dressing. Any advice?",
+    "query_content_zh": "小腿胫前伤口是不是好起来特别慢啊？7月21日摔跤割裂了右小腿胫前肌肉。手术14天后拆线回家休息，一周不到发现伤口皮肤坏死，回院除黑痂清创➕VSD负压一周。然后就是自然长了一个月还剩0.5X0.5厘米黄豆大小肉芽不愈，现在在用水胶体敷料。病友们有经验传授吗？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Continue wound care with hydrocolloid dressing changes. Monitor for signs of infection like increased redness, swelling, or pus. Follow up with your doctor for further evaluation and potential additional treatments.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0418",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0418_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "toes"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "I accidentally kicked and broke a glass that had mice, snakes, lizards, and rabbits crawling over it. Will this wound cause diseases like plague, tetanus, or rabies?",
+    "query_content_zh": "我不小心把玻璃踢碎了，那个玻璃有老鼠、蛇、蜥蜴、兔子爬过，这么样的伤口，请问会得鼠疫，破伤风，狂犬病等疾病吗",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The risk of contracting diseases like plague, tetanus, or rabies from this wound is low but not impossible. The plague bacteria can be transmitted through the bites of infected fleas, which are often found on rodents like mice. However, direct transmission from an animal to a human through a wound is extremely rare. Tetanus is a risk if the glass was contaminated with tetanus spores, which are common in soil and animal feces. Rabies transmission typically occurs through the saliva of an infected animal, usually via a bite. Since the wound was caused by glass and not a bite, the risk of rabies is minimal. To be safe, seek medical attention for a possible tetanus shot and antibiotics, and report the incident to a healthcare provider.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0419",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0419_0001.jpg",
+      "IMG_ENC0419_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "toes"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "Friends, I need some advice. The morning before last, I hit my little toe on the bed frame and scraped off a layer of skin. How can I do for it to heal faster? I am a worker, and I go to work every day. My worker shoes are not breathable.",
+    "query_content_zh": "请问下大家，前天早上小脚趾撞床脚了，上面挂掉了一层皮，怎样处理好的快一点，本人工人一枚，每天上班，劳保鞋还不透气",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a breathable bandage. Change daily or when wet. Wear open-toe shoes if possible.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0420",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0420_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "Is there a surgeon? Can someone help me figure out how to make this wound heal? Thank you.",
+    "query_title_zh": "有没有外科医生啊?帮我看看我这个要这么弄才能愈合?谢谢唉，好",
+    "query_content_en": "Is there a surgeon? Can someone help me figure out how to make this wound heal? Thank you. It's really troublesome.",
+    "query_content_zh": "有没有外科医生啊? 帮我看看我这个要这么弄才能愈合?谢谢 唉，好麻烦",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Seek medical attention for possible infection and further treatment.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0421",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0421_0001.jpg",
+      "IMG_ENC0421_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "My fingernail was ripped off. Should I trim it or leave it alone? If I leave it alone, it will bleed a lot, but if I trim it, I'm afraid the nail will grow into the flesh later.",
+    "query_title_zh": "指甲盖被掀开了，我要剪掉还是合上啊  合上的话血流一大堆剪掉",
+    "query_content_en": "My fingernail was ripped off. Should I trim it or leave it alone? If I leave it alone, it will bleed a lot, but if I trim it, I'm afraid the nail will grow into the flesh later.",
+    "query_content_zh": "指甲盖被掀开了，我要剪掉还是合上啊 合上的话血流一大堆剪掉又怕以后指甲长肉里",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Monitor for signs of infection. Consult a doctor if excessive bleeding or pain occurs.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0422",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0422_0001.jpg",
+      "IMG_ENC0422_0002.jpg",
+      "IMG_ENC0422_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "hand",
+      "hand-back",
+      "fingers",
+      "fingers-interdigital"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "other",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "My hand got scraped and it seems serious. What should I do?",
+    "query_title_zh": "xdm手磕破了，感觉有点严重，应该怎么办啊(Ｔ▽Ｔ)",
+    "query_content_en": "Yesterday, I broke some glass while opening a package in the stairwell, and it cut my hand. Now I can slightly move all my fingers except my index finger. It seems like there's still a piece of glass in my index finger because it hurts a lot when I move it. The cut near my pinky has bone exposed but doesn’t hurt as much as my index finger. This morning, I saw bleeding on the scabbed index finger, and there's a bump that makes me think there's still glass inside. What should I do? I thought it would heal in a few days, but now it seems serious. Should I go to the hospital? Please help! (The first picture was taken after washing the wound at home and wiping it with alcohol wipes. The second is three hours later, the third is nine hours later, and the fourth and fifth were taken this morning. #surgical wound#",
+    "query_content_zh": "昨天在楼道里拆快递，一用力把楼道玻璃弄碎了，玻璃扎了一手。\n现在出食指外的4个指头都可稍微活动，好像食指内还有一块玻璃，一动就特别疼。小指下的伤口可以见骨了，也没食指那的疼。早上起来看到结痂后的食指还淌血，还有一块凸起，个人感觉应该还有一块玻璃。\n这会我应该怎么办啊(´-ωก`），本来感觉过几天就好了，但好像又很严重，用不用去医院什么的。\n急求万能的吧友解答\n（图一是回家水洗之后用酒精棉擦完后拍的，图二是过了3个小时，图三是9小时之后的，图四和图五是今天早上拍的食指）#外伤#",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Seek immediate medical attention for possible glass removal and further treatment.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0423",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0423_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "foot"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "unstageable",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "I scraped and injured my foot while riding an electric bike. It's been 21 days, and the scab looks like this. I'm currently using iodophor and erythromycin ointment, but the scab hasn't come off yet. The doctor said it will heal slowly, but the exact time is uncertain. Does anyone have any good suggestions for a faster recovery?",
+    "query_content_zh": "骑电动车脚擦伤摔伤了，结痂21天成这样。目前是碘伏加红霉素软膏，还没脱痂。医生说慢慢恢复，具体时间不确定。各位友友们，有什么好的建议吗？能快速恢复的",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Continue using iodophor and erythromycin ointment as directed. Keep the area clean and dry. Avoid picking at the scab. Monitor for signs of infection like increased redness, swelling, or pus.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0424",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0424_0001.jpg",
+      "IMG_ENC0424_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "arm"
+    ],
+    "wound_type": "surgical",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "unclear",
+    "query_title_en": "The stitches was removed at two occasions in the past 21 day. Will it reopen? Will it leave a large scar?",
+    "query_title_zh": "21天分两次拆线，这个还会不会裂开，会留下很大的疤痕吗？",
+    "query_content_en": "The stitches was removed at two occasions in the past 21 day. Will it reopen? Will it leave a large scar?",
+    "query_content_zh": "21天分两次拆线，这个还会不会裂开，会留下很大的疤痕吗？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Monitor for signs of infection, such as increased redness, swelling, or pus. Keep the wound clean and dry to promote healing.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0425",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0425_0001.jpg",
+      "IMG_ENC0425_0002.jpg",
+      "IMG_ENC0425_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "My fingernail was removed by a doctor after being pinched by a V-belt. It's been almost a month. Will it heal?",
+    "query_title_zh": "电机三角带挤的，指甲被医生拔掉了，快一个月了，还能好吗",
+    "query_content_en": "My fingernail was removed by a doctor after being pinched by a V-belt. It's been almost a month. Will it heal?",
+    "query_content_zh": "三角带挤的，指甲被医生拔掉了，快一个月了，还能好吗",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be healing. The nail bed seems to be forming a new nail plate. Continue to keep the area clean and dry. Monitor for signs of infection, such as increased redness, swelling, or pus. If concerned, consult a doctor for further evaluation.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0426",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0426_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "toenail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "other",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "Sigh, bad luck.",
+    "query_title_zh": "唉，倒霉",
+    "query_content_en": "Does this need medical attention? Any experts know?",
+    "query_content_zh": "这个需要就医吗？哪位大神知道？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and change bandage daily. If redness, swelling, or pus develop, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0427",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0427_0001.jpg",
+      "IMG_ENC0427_0002.jpg",
+      "IMG_ENC0427_0003.jpg",
+      "IMG_ENC0427_0004.jpg"
+    ],
+    "anatomic_locations": [
+      "ankle"
+    ],
+    "wound_type": "pressure",
+    "wound_thickness": "stage_II",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "Anyone know?",
+    "query_title_zh": "有人知道吗",
+    "query_content_en": "This is already on day five. How does this look right now. Do I need other medication to washout or apply to the wound?",
+    "query_content_zh": "已经是第五天了，现在这个样子是什么意思，还要用什么药来清洗或者敷着吗",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to have a significant amount of necrotic tissue and possible infection. It is recommended to consult a healthcare professional for further evaluation and treatment. They may prescribe additional medication or debridement to promote healing.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0428",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0428_0001.jpg",
+      "IMG_ENC0428_0002.jpg",
+      "IMG_ENC0428_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "toenail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "In March last year, my right big toenail was smashed off completely, and the muscle at the end of the toe detached with a slight bone fracture. Now, a year later, it's mostly healed, but the toenail looks like this, which confuses me. Why is part of the nail yellow? The muscle has reattached and healed.",
+    "query_content_zh": "去年3月份右脚大拇指指甲被砸伤，指甲完全脱落，指甲末端肌肉脱离，末梢轻微骨裂。现在一年了，基本恢复了，但是指甲长成这个样子，我就糊涂了。请问，半截发黄的指甲是什么情况？就是那部分肌肉脱离的，已经缝合愈合了。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The yellow discoloration of the toenail is likely due to a condition called subungual hyperkeratosis, which can occur after a traumatic injury to the nail bed. This condition causes the nail to thicken and become discolored. Another possibility is that the yellow color is due to a fungal infection, which can occur in damaged nails. It's best to consult a doctor for a proper evaluation and diagnosis.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0429",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0429_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "How can you treat accidental cut wound",
+    "query_title_zh": "意外割伤，这个怎么处理？",
+    "query_content_en": "I cut myself accidently. The hospital did some imaging, there was no any appearant bone fracture, but told us the bone did injured slightly. We then did stiches. This area should not involve tendon and nerve right? The doctor was not so concerned, but I am afriad. They did not order any anti-inflammatory medications. Should I get some anti-inflammatory medication myself?",
+    "query_content_zh": "不小心割伤了，医院拍了片子，没有明显骨折，说是骨头稍微有点伤，然后缝合了几针，这个位置应该不涉及肌腱，神经之类的吧，医生说的轻轻松松，自己属实害怕……也不给开消炎药，要不要自己去买些消炎药服用？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Follow doctor's orders and monitor wound. Anti-inflammatory medication may not be necessary.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0430",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0430_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "It has been 20ish days, I don't know if it will recover back to what it used to be",
+    "query_title_zh": "20多天了，不知道能不能长回愿样",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Keep the area clean and dry. Monitor for signs of infection like increased redness, swelling, or pus. Consider consulting a doctor for further evaluation.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0431",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0431_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "hand"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "Will my hand have a scar?",
+    "query_title_zh": "我手这样会留疤吗",
+    "query_content_en": "It was from scratching",
+    "query_content_zh": "挠出这样的",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be a superficial skin injury. With proper wound care, it should heal with minimal scarring.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0432",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0432_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "toes"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "Fell off my bike, and the hospital recommended a skin graft, but I decided to recover at home.",
+    "query_title_zh": "骑车摔伤，医院要求植皮，回家保守恢复。",
+    "query_content_en": "It's been 13 days now, and I feel anxious and awful while changing the dressing. I hope to get some support from this online forum. Hospital treatment for a skin graft costs over RMB ten thousand. I'm feeling bad to think that a single fall costs this much.",
+    "query_content_zh": "现在已经13天了，换药的时候紧张心里难受。希望能得到吧友得支持。去医院植皮治疗要1万出头呢，唉一跤打一万。谁不疼。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek immediate medical attention for proper wound care and potential infection treatment. A skin graft may still be necessary.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0433",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0433_0001.jpg",
+      "IMG_ENC0433_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "abdomen"
+    ],
+    "wound_type": "atypical",
+    "wound_thickness": "unstageable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "What kind of wound is this?",
+    "query_title_zh": "这到底是什么伤口",
+    "query_content_en": "A wound with a diameter of one centimeter has pus.",
+    "query_content_zh": "直径一厘米，伤口有脓",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Monitor for increased redness or swelling.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0434",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0434_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "partial thickness",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "unclear",
+    "query_title_en": "Cut off half with a kitchen knife.",
+    "query_title_zh": "菜刀切掉一半",
+    "query_content_en": "Guys, what should I do? I accidentally cut myself the night before last. I used a band-aid at first, then changed it yesterday morning. The band-aid stuck to the wound, and when I took it off, it bled a little, so I applied some Yunnan Baiyao powder and put on another band-aid. I just removed it today, but it’s still sticking to the wound. It bled a little when I took it off. I disinfected it with iodine and put on another band-aid. How long will this take to heal?",
+    "query_content_zh": "兄弟们，这个怎么办 前天晚上不小心切到了 当时贴了个创口贴 昨天早上把创口贴换了 创口贴粘在伤口上面 取下来之后有点流血就在创可贴上面撒了点云南白药粉贴了上去 今天刚刚取下来了 还是粘在伤口上面 取下来有一点点溢血 用碘伏棉签消毒后又贴了个创可贴 这个大概什么时候能好呢",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply an antibiotic ointment and cover with a bandage. Change the bandage daily or whenever it gets dirty or wet. Monitor for signs of infection, such as increased redness, swelling, or pus. If the wound doesn't show signs of improvement or if you notice any of these symptoms, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0435",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0435_0001.jpg",
+      "IMG_ENC0435_0002.jpg",
+      "IMG_ENC0435_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "Will my finger heal back to its original look after this injury?",
+    "query_title_zh": "手指伤成这样还能恢复成原来的样子吗？",
+    "query_content_en": "I injured myself while riding my bike. It's been almost three weeks. Will the two sides of skin grow together? Will it leave a scar? I didn't get stitches at the time. Would it have been better if I had?",
+    "query_content_zh": "骑车摔伤，快3周了，两边能长一起吗？会不会留一个坑？当时没缝针，缝起来会不会好一点",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be healing, but it may leave a scar. The two sides of skin will likely grow together, but it may take some time.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0436",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0436_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingers"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "Does this require a tetanus shot?",
+    "query_title_zh": "这种要打破伤风吗",
+    "query_content_en": "Will it scar?",
+    "query_content_zh": "会不会留疤啊",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Clean daily with soap and water and cover with a dry dressing. It will take 2-4 weeks for the wound to completely heal. The wound may leave a small scar, but it should not be significant. If you have not had a tetanus shot in the past 10 years, you should consult a doctor about getting a booster shot.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0437",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0437_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "abdomen",
+      "ankle",
+      "arm",
+      "armpit",
+      "back",
+      "backofhead",
+      "chest",
+      "chin",
+      "ear",
+      "elbow",
+      "eyeregion",
+      "face",
+      "fingernail",
+      "fingers",
+      "fingers-interdigital",
+      "foot",
+      "foot-sole",
+      "forearm",
+      "forehead",
+      "groin",
+      "hand",
+      "hand-back",
+      "heel",
+      "knee",
+      "lips",
+      "lowerback",
+      "lowerleg",
+      "mouth",
+      "napeofneck",
+      "neck",
+      "nose",
+      "palm",
+      "scalp",
+      "shoulder",
+      "thigh",
+      "toenail",
+      "toes",
+      "toes-interdigital",
+      "tongue",
+      "unidentifiable",
+      "wrist"
+    ],
+    "wound_type": "pressure",
+    "wound_thickness": "stage_I",
+    "tissue_color": "pink_white",
+    "drainage_amount": "no_exudate",
+    "drainage_type": "sanguineous",
+    "infection": "infected",
+    "query_title_en": "Went out shirtless for a walk and got injured by some mischievous kids. How do I treat this to avoid scarring?",
+    "query_title_zh": "光着膀子出去遛弯被熊孩子暗杀了，想问问这种伤怎么处理不留疤",
+    "query_content_en": "Went out shirtless for a walk and got injured by some mischievous kids. How do I treat this to avoid scarring?",
+    "query_content_zh": "光着膀子出去遛弯被熊孩子暗杀了，想问问这种伤怎么处理不留疤",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage. Change daily or whenever the bandage gets dirty or wet. Keep an eye on it for signs of infection like redness, swelling, or pus. If it doesn't heal or looks infected, see a doctor.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0438",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0438_0001.jpg",
+      "IMG_ENC0438_0002.jpg",
+      "IMG_ENC0438_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "arm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "no_exudate",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "How should I treat this kind of scar?",
+    "query_title_zh": "想问下这种伤疤怎么处理",
+    "query_content_en": "How should I treat this scar? You can see the blood vessels, and it's a bit itchy. Does it need treatment, or is it hopeless?",
+    "query_content_zh": "想问一下这种伤疤怎么处理，可以看到血管，还有点痒，需要处理吗还是肯定好不了了",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply moisturizer to reduce itchiness. Keep the area clean and dry. Monitor for signs of infection, such as increased redness or swelling.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0439",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0439_0001.jpg",
+      "IMG_ENC0439_0002.jpg",
+      "IMG_ENC0439_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "fingers"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "unclear",
+    "query_title_en": "My ring finger got cut by a stainless steel edge.",
+    "query_title_zh": "无名指被白钢边划伤",
+    "query_content_en": "My finger was cut by a stainless steel edge a few days ago. Does it have pus inside? It doesn’t seem like it when I press it. I just disinfected it. Any advice on how to treat this?",
+    "query_content_zh": "手指被白钢边划伤好几天了，这样里面是有脓液吗？按着好像还没有的样子，刚消消毒，有懂得还怎么处理",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Monitor for signs of infection such as increased redness, swelling, or pus. Continue to clean the wound with soap and water, apply antibiotic ointment, and cover with a bandage.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0440",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0440_0001.jpg",
+      "IMG_ENC0440_0002.jpg",
+      "IMG_ENC0440_0003.jpg"
+    ],
+    "anatomic_locations": [
+      "leg"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "Seeking help from community members, surgeons, emergency responders, and doctors.",
+    "query_title_zh": "求助吧友外科#急救#大夫#伤口#",
+    "query_content_en": "An elderly was injured by firecrackers during the New Year. The leg wound area is purple. Is this bruising or an infection?",
+    "query_content_zh": "家里老人过年被鞭炮炸伤 腿部伤口面积发紫 如图 请问这是有淤血还是要感染#伤# #大夫# 【图片】【图片】【图片】",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be a traumatic injury from a firecracker. The purple coloration could indicate bruising or possible infection. It's essential to monitor for signs of infection such as increased redness, swelling, warmth, or pus. The wound seems to be in the proliferative phase of healing, given the presence of granulating tissue. However, the discoloration and potential for infection require medical evaluation.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0441",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0441_0001.jpg",
+      "IMG_ENC0441_0002.jpg"
+    ],
+    "anatomic_locations": [
+      "forearm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_III",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "The tendon on the bodyside of my forearm is completely rutpured!",
+    "query_title_zh": "小臂胳膊内测肌腱全断了！",
+    "query_content_en": "Can any experts advise me on how to treat this persistent infection? I'm allergic to many antibiotics, including penicillin, ciprofloxacin, and levofloxacin. What should I do? I'm currently at the city hospital, but the condition is still not under control. If anyone has experience with this, please help. Otherwise, I might lose my arm.",
+    "query_content_zh": "各位大佬给看看这个怎么治呀感染了，不见好怎么办呀急急，医院里很多抗生素过敏，青霉素环丙沙星，左氧氟沙星，都过敏，怎么办呀，现在人在市医院，病情还没有控制住，各位谁有经验，给想想办法，在不行胳膊保不住了",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Consult a specialist in infectious diseases or an orthopedic surgeon for further evaluation and treatment. Given your antibiotic allergies, they can help determine the best course of treatment, which may include alternative antibiotics or other interventions such as surgical debridement or hyperbaric oxygen therapy.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0442",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0442_0001.jpeg",
+      "IMG_ENC0442_0002.jpeg",
+      "IMG_ENC0442_0003.jpeg"
+    ],
+    "anatomic_locations": [
+      "arm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "I got hit by a car on a cement road and my arm has several wounds with some flesh scraped off. How long will it take to heal? I need to continue basketball training. The wounds are shown in the picture.",
+    "query_title_zh": "在水泥地被车撞手臂上好几处伤擦掉了几块肉这样的伤要多久会好还要篮球训练，伤口如图",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be superficial with some scraped flesh. It may take 1-3 weeks to heal with proper wound care.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0443",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0443_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "leg"
+    ],
+    "wound_type": "surgical",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "other",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "I had surgery on my leg ten years ago, and after the stitches were removed, it seemed like the wound opened up again. After healing, the part that opened up became the scar shown in the picture. It has no sensation, feels hard with no elasticity, and the skin tends to crack easily. Is this normal? How should I take care of it daily?",
+    "query_content_zh": "十年前腿部做的手术，拆线后好像伤口裂开了，痊愈后裂开那部分就是如图的疤痕，而且没啥知觉，发硬没弹性，皮肤容易崩裂，请问这正常吗？日常应如何保养呢？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply moisturizer regularly to prevent dryness and cracking. Avoid picking or scratching the area, as this can cause further irritation and infection. Consider using silicone gel or sheeting to help flatten and soften the scar tissue.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0444",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0444_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "face"
+    ],
+    "wound_type": "surgical",
+    "wound_thickness": "stage_II",
+    "tissue_color": "pink_white",
+    "drainage_amount": "no_exudate",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "What should I do about a scar on my face? It's urgent!!!",
+    "query_title_zh": "脸上伤口留疤怎么办？急！！！",
+    "query_content_en": "As shown in the picture, has the wound completely healed now? If so, can I wash my face with water and apply ointment? Which ointment is the best? Please provide an answer!!!! Thank you for the detailed response, I prefer not to have copy-paste answers.",
+    "query_content_zh": "如图所示，现在是伤口完全愈合了吗？如果是，可以用水洗脸和涂药膏了吗？哪种药膏最好？求解答！！！！谢谢解答，越详细越好，不喜欢复制粘贴。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to have healed. You can wash your face with mild soap and water. Apply a thin layer of petroleum jelly or silicone gel to keep the area moisturized and promote collagen production.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0445",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0445_0001.jpeg",
+      "IMG_ENC0445_0002.jpeg"
+    ],
+    "anatomic_locations": [],
+    "wound_type": "",
+    "wound_thickness": "",
+    "tissue_color": "",
+    "drainage_amount": "",
+    "drainage_type": "",
+    "infection": "",
+    "query_title_en": "For minor dog bites or scratches, does the wound shape look like this in the picture? As shown in the picture.",
+    "query_title_zh": "被狗咬伤或抓伤轻微伤口形状图是不是这个样子的啊如图所是",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0446",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0446_0001.jpeg",
+      "IMG_ENC0446_0002.jpeg",
+      "IMG_ENC0446_0003.jpeg"
+    ],
+    "anatomic_locations": [
+      "toenail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "unstageable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "scant",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "My toenail just fell off. Will it grow back? (as shown in the picture)",
+    "query_title_zh": "趾甲刚脱落，如图这样还会不会长？",
+    "query_content_en": "A month ago, I got hit, and now the scab has just fallen off. Can I use hydrogen peroxide to clean it? Or should I use a band-aid?",
+    "query_content_zh": "一个月前被砸了，现在才脱落。这样可不可以用双氧水洗？或者能不能用邦迪啊？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The toenail will grow back. Keep the area clean and dry. Use soap and water to clean it. Apply antibiotic ointment and cover with a bandage. Avoid using hydrogen peroxide as it can slow healing.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0447",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0447_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "arm"
+    ],
+    "wound_type": "burns",
+    "wound_thickness": "stage_III",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "After being burned by boiling water and self treated, the skin fell off few days later and the wound site had some blackish yellow gangrenous tissue. Image attached. Is this concerning? What should I do next?",
+    "query_title_zh": "开水烧伤自行处理几天后皮掉了伤口部有偏黑色和黄色的腐肉 如图，要紧不？接下来如何处理？",
+    "query_content_en": "It was burned at night. I wrapped it the first day, and then the next day, there was blisters. I applied the burn cream again. Two days later, there was drainage coming out from the blister. I wrapped it after rinsing it with sodium chloride, and a day later, the blister ruptured, showing yellow gangrenous tissue. With no choice, I removed the grangrenous skin, rinsed it with sodium chloride, then applied burn cream and wrapped it. It then became what it looks like right now, and there is redness at the periwound area. What should I do? Is this serious?",
+    "query_content_zh": "由于是晚上烫伤，第一天简单包扎后第二天，起了水泡，再次简单用烧伤膏处理两天后，水泡流出液体，无奈，氯化钠清洗后包扎，一天后，水泡皮破掉，此时出现黄色腐肉。无奈 又将腐肉皮去掉后氯化钠溶液清洗后再次用烧伤膏包扎，于是成了今天这个样子，周围发红，该如何处理，要紧不？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek medical attention immediately due to signs of infection and potential tissue necrosis. The presence of gangrenous tissue, redness, and drainage indicates a high risk of further complications. Do not self-treat.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0448",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0448_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "scalp"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "Bumped my head just now, as shown in the picture. Will it scar? Will hair not grow in that spot in the future? Thank you!",
+    "query_title_zh": "头上碰了下，如图，请问会结疤吗？以后伤口位置会不会不长头发？谢谢…",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound is likely to heal quickly and may not leave a noticeable scar. Hair growth in the affected area should not be significantly impacted.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0449",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0449_0001.jpeg"
+    ],
+    "anatomic_locations": [],
+    "wound_type": "",
+    "wound_thickness": "",
+    "tissue_color": "",
+    "drainage_amount": "",
+    "drainage_type": "",
+    "infection": "",
+    "query_title_en": "How should I treat a cut two days after the injury? As shown in the picture, it seems to have some pus.",
+    "query_title_zh": "请问割伤2天后的伤口怎么处理，如图，好像有点浓",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0450",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0450_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "hand"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "pink_white",
+    "drainage_amount": "no_exudate",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "Scratched by a cat, as shown in the picture. Should I go to the hospital for this? This situation shouldn't be too troublesome, right?",
+    "query_content_zh": "被猫抓了一道痕，如图，这种情况需不需要就医如图，需不需要就医这种情况应该不会太麻烦吧？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Clean the wound with soap and water. Apply antibiotic ointment and cover with a bandage. Monitor for signs of infection like redness, swelling, or increased pain.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0451",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0451_0001.jpeg"
+    ],
+    "anatomic_locations": [],
+    "wound_type": "",
+    "wound_thickness": "",
+    "tissue_color": "",
+    "drainage_amount": "",
+    "drainage_type": "",
+    "infection": "",
+    "query_title_en": "I was scratched by a cat, causing a bit of bleeding, as shown in the picture. Is it serious? Do I need to get a shot?",
+    "query_title_zh": "被猫抓到有点血流出，如图，要不要紧？要不要去打针？",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0452",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0452_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "hand"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "I don't know what bit me, but there are two bumps.",
+    "query_title_zh": "不知道被什么咬了，伤口是两个连在一起包",
+    "query_content_en": "Last night, while sleeping at home, I was bitten by something (I live in Chongqing, China, so it's not something like a black widow). There are two bumps, close together, about 0.5 cm apart. They are swollen larger than a mosquito bite and are oozing a clear liquid that seems like saline. I have three such wounds, and I'm not sure what bit me. My friends say it might be a spider bite. What could have bitten me, and how should I treat it? The wounds are shown in the picture.",
+    "query_content_zh": "我晚上在家睡觉不知道被什么咬了，（我家住中国重庆，不要整些什么黑寡妇），有两个包，而且是挨着的，中间有0.5厘米的间隔，肿得比蚊子咬的大些，而且还流些貌似是生理盐水的液体。我这样的伤口有3个，不知道是什么咬的，还咬得这么艺术，两个包。。。朋友说是蜘蛛咬的。。请问是什么咬的啊？该怎么处理呢？伤口如图",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Clean the bite area with mild soap and water. Apply a cold compress to reduce swelling.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0453",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0453_0001.jpeg",
+      "IMG_ENC0453_0002.jpeg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "I scraped from riding the bike, as shown in the picture. Is the wound infected? How should I treat it?",
+    "query_title_zh": "骑自行车擦伤了，具体如图所示。伤口有没有发炎呢？应该如何处理比较好",
+    "query_content_en": "There are some medications at home: Yunnan Baiyao powder, alcohol, iodine tincture, merbromin, hydrogen peroxide, cefradine capsules",
+    "query_content_zh": "家里有些药：云南白药粉，酒精，碘酒，红汞，双氧水，头孢拉定胶囊",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be infected. Please stop using alcohol, iodine tincture, merbromin, and hydrogen peroxide as they can irritate the wound and slow healing. The powder and cefradine capsules are not suitable for topical application. Instead, clean the wound with saline or clean water and apply a topical antibiotic ointment. Cover with a sterile dressing. If the infection worsens, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0454",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0454_0001.jpeg",
+      "IMG_ENC0454_0002.jpeg"
+    ],
+    "anatomic_locations": [
+      "thigh"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "I previously got burned by a motorcycle exhaust pipe. The treatment went well, and there were no other issues. Today, the wound feels numb and itchy, which seems like a sign of healing (as shown in Picture 1). However, after swimming for about 5 minutes, the wound split open again (as shown in Picture 2). I have applied an Iodophor-like medication. How should I handle this? Is it serious? I need urgent advice as I am traveling in Vietnam and it's not very convenient here.",
+    "query_content_zh": "之前被摩托车排气管烫伤 处理得还可以 没有别的啥 今天伤口麻痒 感觉要好了（如图一）。  后被诱惑游泳5min左右 伤口崩裂…如图二 已涂类似碘伏的药物。请问后续如何处理 ？？？会不会严重！！！ 在线等 急！！！（在越南旅游不太方便😭）",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek medical attention as soon as possible, especially if signs of infection worsen (increased redness, swelling, pain, pus).",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0455",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0455_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "hand"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "I was scratched by a rusted metal when wiping glass. As shown in the photo. Is this alright? Waiting online.",
+    "query_content_zh": "刚刚擦玻璃碰到了生锈的铁，被划伤了，如图有没有事啊？在线等如图",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Clean the wound with soap and water. Apply antibiotic ointment and cover with a bandage. Monitor for signs of infection, such as increased redness, swelling, or pus.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0456",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0456_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "lowerleg"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "unclear",
+    "query_title_en": "My calf bone was injured on the side as showned in the image, how should I treat it? The bone likely is not fractured yet.",
+    "query_title_zh": "小腿骨一侧如图受伤，怎么处理？腿骨应该没骨折",
+    "query_content_en": "The superficial later has some tissue scraped out, and the skin has seirous bruising. Currently, the leg is swollen.",
+    "query_content_zh": "浅层有少量肉被刮掉，皮肤挫伤严重，目前腿肿胀",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply RICE (Rest, Ice, Compression, Elevation) to reduce swelling and pain. Monitor for signs of infection, such as increased redness, swelling, or pus. Keep the wound clean and dry, and cover it with a sterile bandage. Consult a doctor if symptoms worsen or don't improve with time.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0457",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0457_0001.jpeg",
+      "IMG_ENC0457_0002.jpeg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "My index finger was injured a year ago, and there is a hard nodule at the wound healed site. It does not hurt. As shown on the imgae. I did laser afterward, and a year later, the nodule has grown back, and the size is the same. It always grow back whenever I tried to remvoe it. Can I ask what is it?",
+    "query_content_zh": "一年前食指受伤，伤口愈合后有个硬结，不痛。如图。后面做了激光，一年后硬结又长出来了，还是同样大小，割了又长割了又长。求问这是什么",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Based on the images provided and the history of trauma to the finger, the hard nodule at the site of the healed wound could be a keloid or a hypertrophic scar. Both conditions are characterized by the overgrowth of scar tissue following an injury. Keloids and hypertrophic scars can be firm, hard, and may grow larger than the original wound. They can also recur after removal. Laser treatment is one of the methods used to treat keloids and hypertrophic scars, but it may require multiple sessions and sometimes combined with other treatments. Consulting a dermatologist for further evaluation and discussion of treatment options is recommended.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0458",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0458_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "My wound scab got accidentally knocked off after it had healed. See picture.",
+    "query_content_zh": "我的伤口结痂之后被不小心碰掉了如图",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply antibiotic ointment and cover with a bandage.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0459",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0459_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "hand-palm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "I was scratched by an iron screw. The wound is not deep and looks like this (as shown in the picture). The screw head is flat, and I don't know if it was rusty. Could I get tetanus?",
+    "query_title_zh": "被铁螺丝划伤了，不深，大概这样（如图），螺丝头是平的，不知道生锈没，会得破伤风吗？",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Clean the wound with soap and water. Apply antibiotic ointment and cover with a bandage. If the screw was rusty, consider a tetanus shot. Consult a doctor if you have fever, chills, warmth, swelling, pain, redness, bleeding or pus-like discharge.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0460",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0460_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "unstageable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "infected",
+    "query_title_en": "There's a white scab formed over the wound, what should I do?",
+    "query_title_zh": "伤口上面结了一层白色的痂，怎么办",
+    "query_content_en": "As shown in the picture, I fell off my motorcycle the night before yesterday. I treated it briefly and yesterday afternoon went to the hospital where they prescribed medication to apply (growth factors), along with oral antibiotics. Now the wound looks like this, what‘s going on?",
+    "query_content_zh": "如图，前天晚上骑摩托车摔了，简单处理了下昨天下午去医院开了点药擦(生长因子)﻿，还有口服抗炎药，现在这个伤口就变成这样了，怎么回事",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Avoid picking or removing the scab. Continue applying growth factors and take oral antibiotics as prescribed. Monitor for increased redness, swelling, or pus. Follow up with your doctor if condition worsens.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0461",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0461_0001.jpeg",
+      "IMG_ENC0461_0002.jpeg",
+      "IMG_ENC0461_0003.jpeg"
+    ],
+    "anatomic_locations": [
+      "hand",
+      "hand-back"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "unclear",
+    "query_title_en": "As shown in the image, is the wound result of a dog bite?",
+    "query_title_zh": "如图伤口是被狗咬到了吗？",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be a puncture wound, which is consistent with a dog bite. However, without further information or examination, it is not possible to confirm the cause of the wound. Dog bites often have a high risk of infection due to the bacteria present in the mouth. Monitor for signs of infection such as increased redness, swelling, or pus.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0462",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0462_0001.jpeg",
+      "IMG_ENC0462_0002.jpeg",
+      "IMG_ENC0462_0003.jpeg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "unstageable",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "As shown in the picture, I hurt my knee while running a little over two months ago, and the scab eventually fell off. But now it looks like this, with a layer of skin and flesh underneath.",
+    "query_title_zh": "如图，我这膝盖差不多两个多月前跑步时磕坏了，然后也定嘎吱掉了。可是随后就成这样了，一层皮底下有肉?",
+    "query_content_en": "What’s going on? It's been like this for more than half a month.",
+    "query_content_zh": "怎么回事儿，差不多半个多月了就这样。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Consult a healthcare professional for a proper evaluation and diagnosis.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0463",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0463_0001.jpeg",
+      "IMG_ENC0463_0002.jpeg"
+    ],
+    "anatomic_locations": [
+      "fingers"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "I was bitten by a dog as shown in the image. Besides the vaccine, do I need to get the human rabies immune globulin shot?",
+    "query_title_zh": "被狗咬了伤口如图，请问除了打疫苗针，还有必要打蛋白针吗",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "No rabies shot needed. Clean wound with soap and water.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0464",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0464_0001.jpeg",
+      "IMG_ENC0464_0002.jpeg",
+      "IMG_ENC0464_0003.jpeg"
+    ],
+    "anatomic_locations": [
+      "forearm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "sanguineous",
+    "infection": "unclear",
+    "query_title_en": "How to handle self-harm wounds?",
+    "query_title_zh": "自残的伤口要怎么处理？",
+    "query_content_en": "If my parents find out, things will get worse. I don't have anyone reliable nearby, so I had to seek help online. It's not a threat... Last night, I cut myself with a utility knife. I cleaned it with alcohol and applied several band-aids. Before sleeping, I noticed blood seeping out, so I replaced the band-aids. Due to insufficient preparation during the band-aid change, it bled for quite a while. Today, I woke up and it looks like the picture. My left hand feels slightly uncomfortable. I want to know if I need stitches. Can I stitch it myself, or should I go to which department in the hospital? Female, 15 years old.",
+    "query_content_zh": "如果被爸妈知道事情会更严重，身边也没有可靠的人，只好网上求助了，并不是恐吓……昨天晚上用美工刀割了一个口子，用乙醇消毒液涂了一下就贴了几张创口贴，睡前看到血渗出来了重新贴了几张新的创口贴，换创口贴的过程因为准备不够充足流血流了好一会儿，今天醒来大概是如图的样子，左手也稍稍有点不太舒服，想知道需不需要缝针，可以自己缝吗，或者去医院该去哪门门诊？女，15岁。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek immediate medical attention from a qualified healthcare professional. Self-treatment and stitches are not recommended. Visit the emergency department or urgent care for proper evaluation and treatment.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0465",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0465_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "hand"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "For wounds like this, will it be infected with tetanus",
+    "query_title_zh": "问这样伤口会感染破伤风吗？如图！",
+    "query_content_en": "Patient information: Male 20 years old. Illness description (onset of illness, main symptoms): Will wound like this get infected with tetanus? It was lacerated by an iron board. A layer of skin was removed, and bleeding. The diameter is 5mm. Treated with hydrogen peroxide for three times. It has passed 24 hours. What kind of help wanted: Will wound like this get infected with tetanus? How should I treat it? Past treatment and if there is past allergery or hereditery illness: None.",
+    "query_content_zh": "患者信息：男 20岁 病情描述(发病时间、主要症状等)：问这样伤口会感染破伤风吗？被铁皮划破，掉了一层皮，出血，直径5mm，用双氧水处理了3次，已过24小时。想得到怎样的帮助：问这样伤口会感染破伤风吗？如何处理？曾经治疗情况及是否有过敏、遗传病史：无",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek medical attention for possible tetanus infection. Given wound appears infected.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0466",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0466_0001.jpg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "serosanguinous",
+    "infection": "not_infected",
+    "query_title_en": "My nail was pricked by a saw blade. After bandaging it, a week later I noticed the wound is still open.",
+    "query_title_zh": "手指尖指甲边让锯齿扎伤了，包扎完，过了一个星期了，发现伤口是分开的",
+    "query_content_en": "As shown in the picture, will it heal properly? It won't keep splitting like this, right? At the time, the wound didn't seem big, so it wasn't stitched. It was caused by a saw blade prick. I've had a tetanus shot.",
+    "query_content_zh": "如图所示 可以长好么 不会这样一直裂着吧 当时看伤口不大也没有缝 是让锯齿的倒刺扎进去扎伤的 打过破伤风",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Keep the wound clean and dry. Apply antibiotic ointment and cover with a bandage. Monitor for signs of infection, such as increased redness, swelling, or pus. If the wound doesn't show signs of improvement or worsens, consider seeking further medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0467",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0467_0001.jpeg",
+      "IMG_ENC0467_0002.jpeg"
+    ],
+    "anatomic_locations": [
+      "foot"
+    ],
+    "wound_type": "atypical",
+    "wound_thickness": "not_applicable",
+    "tissue_color": "other",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "As shown in the image, what is happening to my feet? It hurts so bad, what should I do? Anything that can cure this?",
+    "query_title_zh": "如图，我的脚是怎么回事？？太痛苦了，该怎么？用什么可以治好？",
+    "query_content_en": "The texture often crack open",
+    "query_content_zh": "那些纹路经常会裂开，，",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply a rich moisturizer to the affected area, and consider using a humidifier to add moisture to the air. For severe cases, consult a doctor for further evaluation and potential prescription treatments.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0468",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0468_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "hand-palm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "serous",
+    "infection": "not_infected",
+    "query_title_en": "Has this wound (as shown in the picture) healed? Why or why not?",
+    "query_title_zh": "这伤口（如图）痊愈了没？为什么？",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "The wound appears to be in the early stages of healing. It is likely that this wound will heal quickly, but it is recommended to keep the area clean and dry to promote healing.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0469",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0469_0001.jpeg",
+      "IMG_ENC0469_0002.jpeg"
+    ],
+    "anatomic_locations": [
+      "toenail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "Urgent! I'm in the 9th grade and really busy with schoolwork! Two weeks ago, I discovered my toenail had pierced into the flesh, so I cut it. I didn't expect it to leave a wound. Now it's pus-filled, and after searching online, I think it's paronychia. I don't know what to do. Can any experts please give me advice? My situation is in the picture. I'd prefer to handle it myself. I think doing surgery wouldn't be too painful for me, but I'm worried it might take too much time, especially since it's 9th grade. Right now, I'm leaning towards incision and drainage, but I'm not sure of the details. Thank you!",
+    "query_content_zh": "急！！本人初三学业很紧！两周前发现脚指甲扎到肉里去了就把它剪了，没想到伤口已经留下来了。现在化了脓百度了一下知道是甲沟炎，不知道该怎么办，请各位大神支个招。情况如图。最好自己解决，手术的话痛没什么，就怕耽误太多时间毕竟是初三。目前比较倾向切开引流，不知道详细情况。谢谢！(ಥ_ಥ)",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "I strongly advise against self-surgery or incision and drainage. Paronychia is a common infection around the nail, and it's best treated with warm water soaks 3-4 times a day, antibiotic ointment, and covering the affected area. If it worsens, seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0470",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0470_0001.jpeg",
+      "IMG_ENC0470_0002.jpeg",
+      "IMG_ENC0470_0003.jpeg"
+    ],
+    "anatomic_locations": [
+      "fingernail"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "As shown in the picture, it's urgent. How should I treat this type of wound?",
+    "query_title_zh": "如图，急，这种伤口如何处理。",
+    "query_content_en": "I cut myself with a kitchen knife while cutting meat. It hurts a little.",
+    "query_content_zh": "切肉的时候被菜刀切爆了，有一点点疼。",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Apply pressure to stop bleeding. Clean with soap and water. Cover with dry dressing.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0471",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0471_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "fingers"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "hard_dry_black",
+    "drainage_amount": "not_applicable",
+    "drainage_type": "not_applicable",
+    "infection": "unclear",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "A year ago, my classmate used a pencil sharpener's knife, and cut at my joint area of the left ring finger. Now the wound is healed, but you can still see there is some black area inside the tissue (as shown in the image). Will it be alright? What should I do?",
+    "query_content_zh": "一年前同学用削铅笔的刀割了我的左手无名指的关节处，现在伤口愈合了，可是还是可以亲眼看见肉里有一道黑色的东西（如图）。这会不会有事啊？我还怎么办？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek medical attention from a doctor, preferably an orthopedic specialist or a hand surgeon, to assess and potentially remove the foreign body or affected tissue.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0472",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0472_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "leg"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "scant",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "I was scratched by a cat through thick jeans, leaving a blood mark as shown in the picture. Do I need to get a rabies vaccine?",
+    "query_title_zh": "被猫隔着厚牛仔裤抓了一下，留下一道血痕，伤口如图，请问需要接种狂犬疫苗吗",
+    "query_content_en": "",
+    "query_content_zh": "",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek medical attention to determine if post-exposure prophylaxis is needed.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0473",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0473_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "finger"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "pink_white",
+    "drainage_amount": "scant",
+    "drainage_type": "sanguineous",
+    "infection": "not_infected",
+    "query_title_en": "Do I need to get vaccinated immediately for a minor cat scratch?",
+    "query_title_zh": "被猫轻微抓伤需要立即接种疫苗吗",
+    "query_content_en": "I live in a rural area and have a good relationship with the neighbor's cat. It usually comes over when I call. I was likely scratched while playing with it, and the scratch doesn't seem intentional. The wound is very small, as shown in the picture; the red spot on my middle finger is the healed scar. Do I need to get vaccinated immediately, or can I wait and observe for ten days? The scratch bled a little, and the wound is barely visible in the picture. I was scratched three hours ago this evening.",
+    "query_content_zh": "家住农村，邻居家的家猫，和我关系不错，一叫就过来，应该是逗着玩的时候被抓伤（不像是故意），很小的伤口，如图，中指中间那一小块的红就是伤口愈合的痕迹，需要立即接种吗，还是不打观察十日？是流了一点点血的，伤口如图，可能看不出来，今晚三个小时前被抓的",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "For minor scratches from familiar pets, immediate vaccination is usually not necessary. However, observe the cat for 10 days for signs of rabies. If the cat appears healthy after 10 days, the risk of rabies transmission is low. If symptoms appear or if you notice signs of infection (redness, swelling, increased pain), seek medical attention.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0474",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0474_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "arm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_I",
+    "tissue_color": "red_moist",
+    "drainage_amount": "no_exudate",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "Do I need a rabies shot? I've had a kitten for over three months, and today while I was surfing the internet, it suddenly jumped over and scratched me with its teeth, as shown in the picture. I used soap to wash it, and there is a slight skin break but no bleeding. Should I get a rabies shot for this?",
+    "query_content_zh": "需要打狂犬吗？养了三个多月的小猫，今天我在上网的时候它突然跳过来，用牙齿划了一道痕，如图，我用肥皂洗了一下，有一点点破皮，没出血，请问这样需要打狂犬吗？",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "No rabies shot is needed. The kitten has been with you for over three months, so it is likely not rabid. The wound is minor with only a slight skin break and no bleeding.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0475",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0475_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "face"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "no_exudate",
+    "drainage_type": "not_applicable",
+    "infection": "not_infected",
+    "query_title_en": "[Urgent] How should I scientifically care for a scratch on my face so it heals quickly? (Picture attached)",
+    "query_title_zh": "【紧急】脸上被指甲划到后,该如何科学保养会很快好?(附图)",
+    "query_content_en": "Yesterday at noon, while playing basketball, my face was accidentally scratched by a classmate's fingernail, causing a small wound about the size of a pinky nail (as shown in the picture). At home, I disinfected the wound with some alcohol and have not let it touch water since then to prevent infection. Now the wound has scabbed over (as shown in the picture). I want to ask how to care for it scientifically so that it heals quickly and the scar fades as much as possible. What should I do daily, and what is the timeline? Could you please outline the steps for me to follow? Also, can the scabbed area touch water now (like when washing my face)? Thanks in advance for your help. Additionally, how can I deal with acne marks? I have some noticeable acne marks on both sides of my face. What are the best ways to remove them? If there are effective medications, please recommend them. However, I hope they will fade on their own quickly. Thank you all!",
+    "query_content_zh": "昨天中午打球的时候,脸部不小心被同学的指甲给刮到,流了一点血,伤口大概小拇指指甲那么大...(如图)  中午回家后,我找了点酒把伤口消了毒,然后持续到现在,我伤口那个部位还没有碰过水,我是怕伤口感染...现在伤口起疤了!(如图)  我想问各位,如何科学护理好才能使其快速的恢复?且伤疤尽可能地淡化,平时需要做哪些工作?大概需要哪些时间,方便的话,可以说说步骤...我参考下...伤口现在起了点疤,可以碰水了吧?(比如伤口部分洗脸时,碰到等)好了,在此感谢大家了...顺便问题下...痘印怎么处理...我脸部两边都有一些痘印,比较明显..所以想问一下,如何去除...如果有好的药物的话,不妨推荐下...但我还是希望它自己很快能够淡化...谢谢大家~",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Gently wash the area around the wound with mild soap and lukewarm water 2-3 times a day. Avoid direct sunlight and apply sunscreen with at least SPF 30 when going outside.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0476",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0476_0001.jpeg",
+      "IMG_ENC0476_0002.jpeg"
+    ],
+    "anatomic_locations": [
+      "knee"
+    ],
+    "wound_type": "infected",
+    "wound_thickness": "unstageable",
+    "tissue_color": "yellow_brown_grey",
+    "drainage_amount": "moderate",
+    "drainage_type": "purulent",
+    "infection": "infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "What should I do with the wound in its current state? After it got infected and suppurated before, the doctor treated it and applied Mupirocin ointment (a topical antibiotic), making it a bright pink color. After I treated it at home, it looks as shown in the picture. How should I handle the wound now?",
+    "query_content_zh": "伤口现在这种情况应该怎么办?之前感染化脓后，医生处理后，用莫匹罗星软膏（局部外用抗生素）涂抹，呈鲜粉红色。后来自己在家处理后，呈现如图所示，现在应如何处理伤口总会呢?",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "Seek medical attention immediately. The wound appears to be infected, with purulent drainage and a significant amount of tissue damage. The presence of yellow-brown-grey tissue and a pinkish-red border suggests an ongoing infection. Discontinue use of Mupirocin ointment without consulting a doctor, as this may lead to antibiotic resistance. A medical professional should assess the wound, potentially take a wound culture, and provide further treatment, which may include debridement, antibiotics, or other interventions.",
+        "content_zh": ""
+      }
+    ]
+  },
+  {
+    "encounter_id": "ENC0477",
+    "split": "valid",
+    "image_ids": [
+      "IMG_ENC0477_0001.jpeg"
+    ],
+    "anatomic_locations": [
+      "arm"
+    ],
+    "wound_type": "traumatic",
+    "wound_thickness": "stage_II",
+    "tissue_color": "red_moist",
+    "drainage_amount": "minimal",
+    "drainage_type": "serosanguinous",
+    "infection": "infected",
+    "query_title_en": "",
+    "query_title_zh": "",
+    "query_content_en": "Can I take a bath if my foot is burned? (as shown in the picture, it's been two days)",
+    "query_content_zh": "脚被烫伤可以洗澡吗？如图两天了",
+    "responses": [
+      {
+        "author_id": "assistant",
+        "content_en": "No, avoid submerging the wound in water, especially if it's infected. Instead, clean the area around the wound with mild soap and water, and pat dry. Keep the wound covered with a waterproof bandage when bathing.",
+        "content_zh": ""
+      }
+    ]
+  }
+]
